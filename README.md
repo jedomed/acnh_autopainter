@@ -3,6 +3,9 @@ Python script to paint a pattern in AC:NH based on an input image. Made for and 
 
 Right now the bash script this generates is pretty garbage, but it works.
 
+Video example:
+[![https://www.youtube.com/watch?v=v6nsk6-SsYM](https://img.youtube.com/vi/v6nsk6-SsYM/0.jpg)](https://www.youtube.com/watch?v=v6nsk6-SsYM)
+
 Input image must be:
 * 32x32 pixels
 * max 15 colors
