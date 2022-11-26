@@ -1,5 +1,7 @@
 # AC:NH auto-painter v1.1
-Python script to paint a pattern in AC:NH based on an input image. Made for and tested on Yuzu.
+Python script to paint a pattern in AC:NH based on an input image. Made for and tested on Yuzu, using PIL and xdotool.
+
+Right now the bash script this generates is pretty garbage, but it works.
 
 Input image must be:
 * 32x32 pixels
