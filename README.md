@@ -14,7 +14,8 @@ Input image must be:
 Usage:
 
 ```bash
-# imagemagicks - convert image to 15 colors
+# convert image to 15 colors
+# open it in another program and save it afterwards 'cause imagemagicks does something to it that makes it unusable 
 convert original.png -colors 15 converted.png
 
 python3 generate.py converted.png
